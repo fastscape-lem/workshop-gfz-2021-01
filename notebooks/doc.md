@@ -25,3 +25,10 @@
 - Xarray plotting documentation: http://xarray.pydata.org/en/stable/plotting.html
 - Hvplot documentation: https://hvplot.holoviz.org/
 - Ipyfastscape documentation: not yet available
+- PyViz website: https://pyviz.org/
+
+## Array librairies
+
+- Numpy: https://numpy.org/
+- Dask: https://dask.org/
+- Zarr: https://zarr.readthedocs.io/
