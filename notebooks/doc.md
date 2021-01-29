@@ -32,3 +32,7 @@
 - Numpy: https://numpy.org/
 - Dask: https://dask.org/
 - Zarr: https://zarr.readthedocs.io/
+
+## Python scientific programming
+
+- Full introduction (not too long, interactive ebook): https://fabienmaussion.info/scientific_programming/welcome.html
